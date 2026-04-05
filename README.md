@@ -1,5 +1,7 @@
 # 👨‍💻 Wilkens Costa
 
+---
+
 `Analista de TI Infra & Seg. da Informação | Web Developer`
 
 Me chamo Wilkens Costa, atuo no Ceará, Brasil, e tenho como grande objetivo modernizar operações de TI eliminando processos manuais e gerando impacto real nos negócios.
@@ -22,6 +24,8 @@ Atualmente estou focado em evoluir no ecossistema de Inteligência Artificial, e
 </div>
 
 <br>
+
+---
 
 ### 🚇 Linguagens e Tecnologias
 
