@@ -1,4 +1,5 @@
-# <img src="https://github.com/user-attachments/assets/34d2aef9-0d40-4d68-8c15-a769a9a4edd4" width="100" align="center"> Wilkens Costa
+# <img src="https://github.com/user-attachments/assets/e13975e1-a78c-45f9-9fc4-9d1fd7324398" width="100" align="center"> Wilkens Costa
+![download (9)](https://github.com/user-attachments/assets/e13975e1-a78c-45f9-9fc4-9d1fd7324398)
 
 `Analista de TI Infra & Seg. da Informação | Web Developer`
 
