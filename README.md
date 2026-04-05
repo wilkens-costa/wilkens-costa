@@ -1,16 +1,16 @@
 # 👨‍💻 Wilkens Costa
 
-`Analista de TI Infra & Seg. da Informação | Web Developer` [cite: 4, 36]
+`Analista de TI Infra & Seg. da Informação | Web Developer`
 
-[cite_start]Me chamo Wilkins Costa, atuo no Ceará, Brasil [cite: 5][cite_start], e tenho como grande objetivo modernizar operações de TI eliminando processos manuais e gerando impacto real nos negócios[cite: 10].
+Me chamo Wilkens Costa, atuo no Ceará, Brasil, e tenho como grande objetivo modernizar operações de TI eliminando processos manuais e gerando impacto real nos negócios.
 
-[cite_start]Trabalho com `Windows Server`, `Active Directory`, `Firewalls`, `Python` e `n8n` [cite: 55, 56, 58, 61, 62][cite_start], atuando fortemente na gestão de infraestrutura corporativa e desenvolvendo automações para segurança e eficiência[cite: 9, 10, 27, 28].
+Trabalho com `Windows Server`, `Active Directory`, `Firewalls`, `Python` e `n8n`, atuando fortemente na gestão de infraestrutura corporativa e desenvolvendo automações para segurança e eficiência.
 
-[cite_start]Também possuo atuação prática como freelancer em `UX/UI Design`, `WordPress` e plataformas `SaaS` [cite: 36, 39, 42, 43][cite_start], o que me permite pensar não apenas na camada de infraestrutura e código, mas também na usabilidade, experiência do usuário e criação de identidades visuais fluidas[cite: 11, 41, 45].
+Também possuo atuação prática como freelancer em `UX/UI Design`, `WordPress` e plataformas `SaaS`, o que me permite pensar não apenas na camada de infraestrutura e código, mas também na usabilidade, experiência do usuário e criação de identidades visuais fluidas.
 
-[cite_start]Atualmente estou focado em evoluir no ecossistema de Inteligência Artificial, explorando `LangChain` e `Engenharia de Prompts` [cite: 61, 65, 80] enquanto desenvolvo novos projetos reais.
+Atualmente estou focado em evoluir no ecossistema de Inteligência Artificial, explorando `LangChain` e `Engenharia de Prompts` enquanto desenvolvo novos projetos reais.
 
-📌 Fique à vontade para explorar meus repositórios e conhecer meu trabalho. [cite_start]Você também pode me encontrar no "LinkedIn" [cite: 7]
+📌 Fique à vontade para explorar meus repositórios e conhecer meu trabalho. Você também pode me encontrar no LinkedIn!
 
 <div align="left">
   <a href="https://linkedin.com/in/wilkens-costa" target="_blank">
